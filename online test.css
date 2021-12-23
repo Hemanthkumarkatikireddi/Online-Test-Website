@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.online-test-bg{
+    background-color: #875fc0;
+    border-right: solid 8px black;
+    margin-left: 300px;
+    width: 380px;
+    height: 640px;
+    padding: 20px;
+}
+h5{
+    text-align: right;
+    color: white;
+    font-weight: bold;
+}
+.question-box{
+    background-color: white;
+    padding:15px;
+    text-align: center;
+    border-radius: 10px ;
+    margin-bottom:10px ;
+}
+.question-box h6{
+    font-size: 23px;
+}
+.question-box p{
+    font-weight: bold;
+    color: gray;
+    font-size: 13   px;
+}
+.question-box img{
+    width:250px ;
+    height: 110px;
+}
+.submit{
+    background-color: white;
+    padding:20px 30px;
+    
+    border-radius: 10px ;
+    margin-bottom:10px ;
+}
+.answers-box button{ 
+    width: 280px;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align:left;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+.answers-box button.color{
+    background-color: #875fc0;
+    color: white;
+}
+.submit-btn{
+    background-color: #fbaf00;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    border: 0px;
+    margin:  0px 80px;    
+}
